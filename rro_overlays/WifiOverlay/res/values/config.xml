@@ -5,7 +5,7 @@
 -->
 <resources>
 
-    <dimen name="fingerprint_dot_radius">15dp</dimen>
-    <item name="fingerprint_sensor_location_fraction_y" type="fraction">36%</item>
+    <!-- Default access point SSID used for tethering -->
+    <string name="wifi_tether_configure_ssid_default" translatable="false">OnePlus 5T</string>
 
 </resources>
